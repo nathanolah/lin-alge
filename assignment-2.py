@@ -1,4 +1,4 @@
-# Assignment 2 - Question 1
+
 # Nathan Olah
 
 import numpy as np
