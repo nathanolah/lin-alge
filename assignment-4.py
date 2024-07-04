@@ -1,5 +1,4 @@
-# SFWRTECH 4MA3 - Assignment - 4
-# Nathan Olah
+
 
 import numpy as np
 from tabulate import tabulate
