@@ -1,4 +1,4 @@
-# SFWRTECH 4MA3 - Assignment - 3
+
 # Nathan Olah
 
 import numpy as np

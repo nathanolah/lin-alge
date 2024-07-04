@@ -1,4 +1,4 @@
-# SFWRTECH 4MA3 - Challenge Project - 1
+
 # Nathan Olah
 
 import numpy as np
